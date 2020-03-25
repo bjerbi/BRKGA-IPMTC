@@ -1,0 +1,2 @@
+# BRKGA-IPMTC
+BRKGA-IPMTC Biased random-key genetic algorithm for scheduling identical parallel machines with tooling constraints  Please find the method description in L.C.R. Soares and M.A.M. Carvalho, Biased random-key genetic algorithm for scheduling identical parallel machines with tooling constraints, European Journal of Operational Research, https://doi.org/10.1016/j.ejor.2020.02.047  Remember to make sure the algorithm is set to the configuration you need, see the experiments chapter in the original article.
